@@ -13,7 +13,7 @@ Tasked with analyzing the reviews of in the Amazon Vine program, an affiliate-ba
 
 ### 5-Star Results
 
-**Total 5-Star:**  15,711
+**Total 5-Star:**  15,711 <br>
 **Paid:**  6,002 <br>
 **Unpaid:** 9,709
 
