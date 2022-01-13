@@ -19,7 +19,7 @@ Tasked with analyzing the reviews of in the Amazon Vine program, an affiliate-ba
 
 ![Alt Text](https://github.com/Goddard310/Amazon_Vine_Analysis/blob/main/Resources/Paid5Star.png)
 
-*Our analysis shows 38% of the 5-Star reviews are "paid"*
+*Our analysis shows "paid" reviewers give 5-Star ratings 38.2% of the time*
 
 ## Summary
 
